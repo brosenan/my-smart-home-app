@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1080122280883",
+    "firebase_url": "https://brosenan-iot.firebaseio.com",
+    "project_id": "brosenan-iot",
+    "storage_bucket": "brosenan-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080122280883:android:7a2a4de30d397baed459c6",
+        "android_client_info": {
+          "package_name": "net.nansore.smarthome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080122280883-qiv2ln7dbubi3rtnrmhne3r1t46um6fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQp7NQnc6BE5Wd5Sky-1Qn74GGsDLNbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080122280883-qiv2ln7dbubi3rtnrmhne3r1t46um6fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
